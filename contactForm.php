@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name=description" content="High-quality granite countertop services.">
-    <title>Granite Zinac</title>
+    <title>Kerrville's Granite Countertops | Granite Zinac</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap" rel="stylesheet">
@@ -12,20 +12,22 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
+<body>
+
 <div class=test_container>
     <!--Header Section-->
     <!--Mobile Header-->
     <div class="mobile-container">
         <div class="topNav">
             <div class="active_header">
-                <a href="index.html">Granite Zinac</a>
+                <a href="index.php">Granite Zinac</a>
             </div>
             <div id="myLinks">
-                <a href="index.html">Home</a>
-                <a href="about.html">From Quarry to Kitchen</a>
-                <a href="services.html">Services</a>
-                <a href="portfolio.html">Portfolio</a>
-                <a href="contact.html">Contact</a>
+                <a href="index.php">Home</a>
+                <a href="about.php">From Quarry to Kitchen</a>
+                <a href="services.php">Services</a>
+                <a href="portfolio.php">Portfolio</a>
+                <a href="contact.php">Contact</a>
             </div>
             <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                 <i class="fa fa-bars"></i>
@@ -40,18 +42,19 @@
                 <h1>GRANITE<span>ZINAC</span></h1>
             </div>
             <div class="navigation">
-                <a href="index.html">Home</a>
-                <a href="about.html">From Quarry to Kitchen</a>
-                <a href="services.html">Services</a>
-                <a href="portfolio.html">Portfolio</a>
-                <a href="contact.html">Contact</a>
+                <a href="index.php">Home</a>
+                <a href="about.php">From Quarry to Kitchen</a>
+                <a href="services.php">Services</a>
+                <a href="portfolio.php">Portfolio</a>
+                <a href="contact.php">Contact</a>
             </div>
         </div>
     </div>
+    <div class="contactForm">
 
-    <body>
 
-    </body>
+    </div>
+
 
     <footer>
         <div class="nav_footer">
@@ -59,19 +62,19 @@
                 <h3>GRANITE ZINAC</h3>
             </div>
             <ul class="list_nav_footer">
-                <a href="index.html">
+                <a href="index.php">
                     <li>Home</li>
                 </a>
-                <a href="about.html">
+                <a href="about.php">
                     <li>From Quarry to Kitchen</li>
                 </a>
-                <a href="services.html">
+                <a href="services.php">
                     <li>Service</li>
                 </a>
-                <a href="Suppliers.html">
+                <a href="Suppliers.php">
                     <li>Portfolio</li>
                 </a>
-                <a href="contact.html">
+                <a href="contact.php">
                     <li>Contact</li>
                 </a>
             </ul>
@@ -81,7 +84,7 @@
                 <div class="footer_icons">
                     <a href="https://www.facebook.com/"><img src="/image/icons8-facebook-50 (1).png"></a>
                     <a href="https://www.google.com/maps/place/Granite+Zinac/@29.9772987,-99.1644485,17z/data=!3m1!4b1!4m6!3m5!1s0xa87f375b65a59249:0x608b67ad1efc6c3b!8m2!3d29.9772987!4d-99.1644485!16s%2Fg%2F11q35jxf4r?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D"><img
-                            src="/image/icons8-google-50.png"></a>
+                                src="/image/icons8-google-50.png"></a>
                 </div>
             </div>
         </div>
@@ -90,4 +93,5 @@
         </div>
     </footer>
 </div>
+</body>
 </html>

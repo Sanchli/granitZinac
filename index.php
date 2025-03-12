@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name=description" content="High-quality granite counter top services.">
-    <title>Granite Zinac</title>
+    <title>Kerrville's Granite Countertops | Granite Zinac</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap" rel="stylesheet">
@@ -15,37 +15,9 @@
 <!--Header Section-->
 <!--Mobile Header-->
 <body>
-<div class="mobile-container">
-    <div class="topNav">
-        <div class="active_header">
-            <a href="index.html">granite zinac</a>
-        </div>
-        <div id="myLinks">
-            <a href="index.html">Home</a>
-            <a href="about.html">From Quarry to Kitchen</a>
-            <a href="services.html">Services</a>
-            <a href="portfolio.html">Portfolio</a>
-            <a href="contact.html">Contact</a>
-        </div>
-        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-            <i class="fa fa-bars"></i>
-        </a>
-    </div>
-</div>
-<script src="/js/hamburger_header.js"></script>
-<!--normal header-->
-<div class="regular_header">
-    <div class="header">
-        <div class="logo_container">
-            <h1>GRANITE<span>ZINAC</span></h1>
-        </div>
-        <div class="navigation"><a href="index.html">Home</a>
-            <a href="about.html">From Quarry to Kitchen</a>
-            <a href="services.html">Services</a>
-            <a href="portfolio.html">Portfolio</a>
-            <a href="contact.html">Contact</a></div>
-    </div>
-</div>
+<header>
+    <?php include 'header.php'; ?>
+</header>
 <!--main section-->
 <!--carousel images-->
 <div class="carousel">
@@ -63,8 +35,8 @@
                     the challenge.
                 </div>
                 <div class="buttons">
-                    <button>learn more about the process</button>
-                    <button>contact us</button>
+                    <button onclick="location.href='about.php';">Behind the Scenes</button>
+                    <button onclick="location.href='contact.php';">We’d Love to Hear from You!</button>
                 </div>
             </div>
         </div>
@@ -80,8 +52,8 @@
                     the challenge.
                 </div>
                 <div class="buttons">
-                    <button>learn more about the process</button>
-                    <button>contact us</button>
+                    <button onclick="location.href='about.php';">Behind the Scenes</button>
+                    <button onclick="location.href='contact.php';">We’d Love to Hear from You!</button>
                 </div>
             </div>
         </div>
@@ -95,8 +67,8 @@
                     No matter if you like to mix and match for your kitchen we can make it happen.
                 </div>
                 <div class="buttons">
-                    <button onclick="location.href='services.html';">learn more about the process</button>
-                    <button>contact us</button>
+                    <button onclick="location.href='about.php';">Behind the Scenes</button>
+                    <button onclick="location.href='contact.php';">We’d Love to Hear from You!</button>
                 </div>
             </div>
         </div>
@@ -111,8 +83,8 @@
                     the challenge.
                 </div>
                 <div class="buttons">
-                    <button>learn more about the process</button>
-                    <button>contact us</button>
+                    <button onclick="location.href='about.php';">Behind the Scenes</button>
+                    <button onclick="location.href='contact.php';">We’d Love to Hear from You!</button>
                 </div>
             </div>
         </div>
@@ -171,48 +143,9 @@
     <div class="time"></div>
 </div>
 <script src="js/app.js"></script>
-<footer>
-    <div class="nav_footer">
-        <div class="footer_logo">
-            <h3>Granite Zinac</h3>
-        </div>
-        <ul class="list_nav_footer">
-            <a href="index.html">
-                <li>Home</li>
-            </a>
-            <a href="about.html">
-                <li>From quarry to kitchen</li>
-            </a>
-            <a href="services.html">
-                <li>Service</li>
-            </a>
-            <a href="suppliers.html">
-                <li>Portfolio</li>
-            </a>
-            <a href="contact.html">
-                <li>Contact</li>
-            </a>
-        </ul>
-    </div>
-    <div class="footer_grid">
-        <div class="footer_left"></div>
-        <div class="footer_middle">
-            <div class="footer_icons">
-                <a href="https://www.facebook.com/"><img src="/image/facebook.png" alt="facebook"></a>
-                <a href="https://www.google.com/maps/place/granite+zinac/@29.9772987,-99.1644485,17z/data=!3m1!4b1!4m6!3m5!1s0xa87f375b65a59249:0x608b67ad1efc6c3b!8m2!3d29.9772987!4d-99.1644485!16s%2fg%2f11q35jxf4r?entry=ttu&g_ep=egoymdi1mdexns4wikxmdsoasafqaw%3d%3d"><img
-                        src="/image/google.png" alt="google"></a>
-            </div>
-        </div>
-        <div class="footer_right">
-            <!--
-            <a href="https://g.page/r/ctts_b6tz4tgebm/review"><p>leave us a review on google!</p></a>
-            -->
 
-        </div>
-    </div>
-    <div class="bottom_footer"><p>copyright &copy 2025 granite zinac designed by</p>
-        <div class="designed"><p>&nbspedgar israel sanchez</p></div>
-    </div>
+<footer>
+    <?php include 'footer.php'; ?>
 </footer>
 </body>
 </html>
