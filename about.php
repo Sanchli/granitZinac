@@ -21,7 +21,7 @@
 <!--Main Section-->
 <div class="about_simpleHeader">
     <div class="about_Photo">
-        <img src="/image/test_about.avif" alt="company_photos">
+        <img src="/image/about/panoramaShot.avif" alt="company_photos">
     </div>
     <div class="about_simpleHeader_text">
         <h2>Crafting beautiful spaces with care, quality, and family values</h2>
@@ -31,7 +31,7 @@
 </div>
 <div class=" about_Two">
     <div class=" about_Photo_2">
-        <img src="/image/teamPhoto2.jpg" alt="company_photos">
+        <img src="/image/about/teamPhoto2.jpg" alt="company_photos">
     </div>
     <div class="about_simpleHeader_text_Two ">
         <h2>Who is <br>Granite Zinac?</h2>
@@ -56,14 +56,14 @@
                     location to take precise measurements and discuss your vision, including color and design. <br>
                     For a personal touch, we recommend visiting slab yards to select your stone.<br> Once chosen, we
                     provide a detailed, customized estimate.</p>
-                <img src="image/estimate.png" alt="Estimate/Discussing">
+                <img src="image/home/estimate.png" alt="Estimate/Discussing">
             </div>
             <button class="accordion">Stone</button>
             <div class="panel">
                 <div class="stone">
-                    <img src="image/mj.svg" alt="MJ Granite">
-                    <img src="image/CRSLogo.png" alt="CRS Granite">
-                    <img src="image/AmeriQuartz.svg" alt="Templating">
+                    <img src="image/logos/mj.svg" alt="MJ Granite">
+                    <img src="image/logos/" alt="CRS Granite">
+                    <img src="image/logos/AmeriQuartz.svg" alt="Templating">
                 </div>
                 <div class="accordion_text">
                     <h3>Choose Your Perfect Stone</h3>

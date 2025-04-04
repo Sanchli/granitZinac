@@ -19,7 +19,7 @@
 
 <div class="service_top">
     <h2>SERVICES</h2>
-    <img src="/image/servicesMaybe.jpg" alt="graniteBackground">
+    <img src="/image/services/servicesMaybe.jpg" alt="graniteBackground">
 </div>
 <div class="services_mid">
     <div class="services_grid">
@@ -115,7 +115,7 @@
     </div>
     <div class="choose_us">
         <div class="whyChooseUS">
-            <img src="image/White%20Marble%20Cover%20Chimney.avif"
+            <img src="image/about/about%20page.jpg"
                  alt="Kitchen with white cabinets with white colored granite containing black dots surrounded white tile on sides">
         </div>
         <div class="textSectionWhyChooseUs">

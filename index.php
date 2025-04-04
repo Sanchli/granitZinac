@@ -24,7 +24,7 @@
     <!--list item-->
     <div class="list">
         <div class="item">
-            <img src="/image/20241026_155236.jpg" alt="">
+            <img src="/image/home/hero1.jpg" alt="">
             <div class="content">
                 <div class="author">Granite Zinac</div>
                 <div class="title">Quarts</div>
@@ -41,7 +41,7 @@
             </div>
         </div>
         <div class="item">
-            <img src="/image/634fd040-9c5b-4cc8-b7c2-2b04e1f19676.jpg">
+            <img src="/image/home/hero4.jpg">
             <div class="content">
                 <div class="author">Granite Zinac</div>
                 <div class="title">Granite</div>
@@ -58,7 +58,7 @@
             </div>
         </div>
         <div class="item">
-            <img src="/image/20241030_162031.jpg">
+            <img src="/image/home/hero2.jpg">
             <div class="content">
                 <div class="author">Granite Zinac</div>
                 <div class="title">Quartzite</div>
@@ -73,7 +73,7 @@
             </div>
         </div>
         <div class="item">
-            <img src="/image/img_20210307_202617.jpg">
+            <img src="/image/home/hero3.jpg">
             <div class="content">
                 <div class="author">Granite Zinac</div>
                 <div class="title">Dolomite</div>
@@ -92,7 +92,7 @@
     <!---thumbnail-->
     <div class="thumbnail">
         <div class="item">
-            <img src="/image/20241026_155236.jpg">
+            <img src="/image/home/hero1.jpg">
             <div class="content">
                 <div class="title">
                     Quarts
@@ -103,7 +103,7 @@
             </div>
         </div>
         <div class="item">
-            <img src="/image/634fd040-9c5b-4cc8-b7c2-2b04e1f19676.jpg">
+            <img src="/image/home/hero4.jpg">
             <div class="content">
                 <div class="title">
                     Granite
@@ -114,7 +114,7 @@
             </div>
         </div>
         <div class="item">
-            <img src="/image/20241030_162031.jpg">
+            <img src="/image/home/hero2.jpg">
             <div class="content">
                 <div class="title">
                     Quartzite
@@ -125,7 +125,7 @@
             </div>
         </div>
         <div class="item">
-            <img src="/image/img_20210307_202617.jpg">
+            <img src="/image/home/hero3.jpg">
             <div class="content">
                 <div class="title">
                     Dolomite

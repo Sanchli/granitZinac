@@ -21,32 +21,32 @@
 
 <div class="portfolioPhotosRom">
     <div class="column">
-        <img src="image/Porfolio_Optimized/Nero%20Mist%20Honed%20Granite%20Outdoor%20Kitchen%20Counter%20Top.avif"
+        <img src="image/portfolio/portfolio1/Nero%20Mist%20Honed%20Granite%20Outdoor%20Kitchen%20Counter%20Top.avif"
              alt="Nero Mist Honed Granite Outdoor Kitchen Counter Top">
-        <img src="image/Porfolio_Optimized/Andino%20White%20Granite%20Kitchen%20Counter%20Top%20with%20Island.avif"
+        <img src="image/portfolio/portfolio1/Andino%20White%20Granite%20Kitchen%20Counter%20Top%20with%20Island.avif"
              alt="Andino White Granite Kitchen Counter Top with Island">
-        <img src="image/Porfolio_Optimized/Black%20Galaxy%20Dual%20Sink%20Bathroom%20Countertop%20with%20River%20Stone%20Sinks.avif"
+        <img src="image/portfolio/portfolio1/Black%20Galaxy%20Dual%20Sink%20Bathroom%20Countertop%20with%20River%20Stone%20Sinks.avif"
              alt="Black Galaxy Dual Sink Bathroom Counter top with River Stone Sinks">
-        <img src="image/Porfolio_Optimized/Fantasy%20Brown%20Granite%20Kitchen%20Countertop.avif"
+        <img src="image/portfolio/portfolio1/Fantasy%20Brown%20Granite%20Kitchen.avif"
              alt="Fantasy Brown Granite Kitchen Counter top">
     </div>
     <div class="column">
-        <img src="image/Porfolio_Optimized/Wavy%20Granite%20Kitchen%20Countertop.avif"
+        <img src="image/portfolio/portfolio1/"
              alt=" Beautiful Wavy Granite Kitchen Countertop">
-        <img src="image/Porfolio_Optimized/Carrara%20Zion%20Quarts%20Farm%20House%20SInk.avif"
+        <img src="image/portfolio/portfolio1/"
              alt="Carrara Zion Quarts Farm House Sink">
-        <img src="image/Porfolio_Optimized/Mascarello%20Granite%20Kitchen%20Counter%20Top.avif"
+        <img src="image/portfolio/portfolio1/Mascarello%20Granite%20Kitchen%20Counter%20Top.avif"
              alt="Mascarello Granite Kitchen Counter Top">
-        <img src="image/Porfolio_Optimized/Colonial%20White%20Granite%20Kitchen%20Countertop.avif"
+        <img src="image/portfolio/portfolio1/"
              alt="Colonial White Granite Kitchen Counter top">
     </div>
     <div class="column">
-        <img src="image/Porfolio_Optimized/Carrara%20Zion-%20Quarts%20Kitchen%20Counter%20Top%20.avif"
+        <img src="image/portfolio/portfolio1/Carrara%20Zion-%20Quarts%20Kitchen%20Counter%20Top%20.avif"
              alt="Carrara Zion-Quarts Kitchen Counter Top">
-        <img src="image/Porfolio_Optimized/Fantasy%20Brown%20Granite%20Kitchen.avif"
+        <img src="image/portfolio/portfolio1/"
              alt="Fantasy Brown Granite Kitchen">
-        <img src="image/Porfolio_Optimized/Outdoor%20Granite%20Table.avif" alt="Outdoor Granite Table">
-        <img src="image/Porfolio_Optimized/Beautiful%20Gold%20Granite%20Kitchen%20Countertop.avif"
+        <img src="image/portfolio/portfolio1" alt="Outdoor Granite Table">
+        <img src="image/portfolio/portfolio1"
              alt="Beautiful Gold Granite Kitchen Countertop">
     </div>
     <div class="column">

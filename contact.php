@@ -20,7 +20,28 @@
 <div class="contactForm1">
     <div class="contactForMid1">
         <div class="contactForm1_Left">
-            <H3>Contact us</H3>
+            <div class="contactHeader">
+                <H3>Contact us</H3>
+            </div>
+            <div class="contactHeaderBody">
+                <p> Excited to start your Project?</p>
+                <p>Fill free to give us a call we are ready when you are!</p>
+                <div class="contactInformation">
+                    <div class="contactDetail">
+                        <p></p> <img src="image/logos/icons8-incoming-call-100.png" alt="Phone Image for user"> <a
+                                href="tel:(830) 777-7434">830-777-7434</a>
+                    </div>
+                    <div class="contactDetail">
+                        <p></p><img src="image/logos/icons8-email-32.png" alt="Email image for user"> <a
+                                href="mailto:graniteZinac@gmail.com">graniteZinac@gmail.com</a>
+                    </div>
+                    <div class="contactDetail">
+                        <p></p><img src="image/logos/icons8-address-100.png" alt="address image for user"> <a
+                                href="https://maps.app.goo.gl/vALyWDBuWfqZqmJQ9">122
+                            Whitewing Dr. Kerrville, Texas, 78028</a>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="contactForm1_Right">
             <form action="submit.php" method="POST">
@@ -68,7 +89,7 @@
                         referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <div class="slabInfo">
-                <img src="image/mj.svg" alt="mj Granite">
+                <img src="image/logos/mj.svg" alt="mj Granite">
                 <div class="slabInfoText">
                     <a href="https://mjgranite.com/inventory/"> Check Out their Inventory!</a>
                     <p> Address:</p> <a href="https://maps.app.goo.gl/2MnEW3zsBc6Uuujz9">12010 Warfield, San Antonio
@@ -80,7 +101,7 @@
         </div>
         <div class="slabYard">
             <div class="slabInfo">
-                <img src="image/logo-americ-transformed.jpeg" alt="Ameriquarts" style="mix-blend-mode: multiply">
+                <img src="image/logos/logo-americ-transformed.jpeg" alt="Ameriquarts" style="mix-blend-mode: multiply">
                 <div class="slabInfoText">
                     <a href="https://inventory.ameriquartzusa.com/"> Check Out their Inventory!</a>
                     <p> Address:</p> <a href="https://maps.app.goo.gl/8dMjP8YukLKay8T97">11503 Jones Maltsberger
