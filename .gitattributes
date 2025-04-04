@@ -1,1 +1,13 @@
 image/* filter=lfs diff-lfs merge=lfs -text
+image/image.jpeg filter=lfs diff=lfs merge=lfs -text
+image/portfolio filter=lfs diff=lfs merge=lfs -text
+image/chimney filter=lfs diff=lfs merge=lfs -text
+image/hero.jpg filter=lfs diff=lfs merge=lfs -text
+image/heroEdit.jpg filter=lfs diff=lfs merge=lfs -text
+image/icons8-facebook-24.png filter=lfs diff=lfs merge=lfs -text
+image/icons8-google-50.png filter=lfs diff=lfs merge=lfs -text
+image/joemartinez filter=lfs diff=lfs merge=lfs -text
+image/logos filter=lfs diff=lfs merge=lfs -text
+image/services filter=lfs diff=lfs merge=lfs -text
+image/Granite[[:space:]]Zinac filter=lfs diff=lfs merge=lfs -text
+image/about filter=lfs diff=lfs merge=lfs -text
