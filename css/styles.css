@@ -1,10 +1,12 @@
 * {
-    margin: 0;
+    margin: auto;
     padding: 0;
     list-style: none;
     text-decoration: none;
     font-family: "DM Serif Text", serif;
     font-weight: 400;
+    max-width: 1500px;
+
 }
 
 body {
@@ -1055,24 +1057,34 @@ input[type=submit]:hover {
 }
 
 .choose_us {
-    display: flex;
-    padding: 2em 2em 2em 2em;
+    width: auto;
+    max-height: 600px;
+    overflow: hidden;
+    position:relative;
+    
 }
 
 .whyChooseUS {
-    display: block;
-    width: 40%;
-    margin: auto;
+    position: relative;
 }
-
 .whyChooseUS img {
-    max-width: 100%;
-    display: block;
-    border-radius: .5rem;
+    width: 100%;
+    min-width: 1080px;
 }
-
 .textSectionWhyChooseUs {
-    padding-left: 1em;
+    position: absolute;
+    top:50px;
+    z-index: 2;
+    padding: 2em;
+    margin:auto;
+    margin-right: 1em;
+    height: auto;
+    width:auto;
+    left: 50%;
+    align-content: center;
+    background-color: white;
+    border-radius: 1em;
+   
 }
 
 .textSectionWhyChooseUs h2 {
@@ -1088,6 +1100,7 @@ input[type=submit]:hover {
     margin: 1rem;
     border: none;
     background: RGB(107, 144, 96);
+    transition: ease .4s;
     padding: 1rem;
     border-radius: 1rem;
 }
@@ -1098,6 +1111,9 @@ input[type=submit]:hover {
 }
 
 .textSectionWhyChooseUs button:hover {
+    background-color: grey;
+    transition: ease .4s;
+
 }
 
 .portfolioPhotosRom {
@@ -1133,6 +1149,25 @@ input[type=submit]:hover {
     .column {
         flex: 50%;
         max-width: 48%;
+    }
+    .carousel .list .item .content .buttons {
+        display: flow-root;
+    }
+    .carousel .list .item .content button{
+        padding-top: 1rem;
+        margin-top: 1em;
+    } 
+    .carousel .list .item .content button:nth-child(2){
+        margin-left:0 !important;
+    }
+    .textSectionWhyChooseUs{
+        margin-top: 1em;
+        margin-bottom: 1em;
+        width:70%;
+        left:50%;
+        top: 50%;
+        transform:translate(-50%,-50%);
+        align-items: center;
     }
 
 }
@@ -1265,7 +1300,12 @@ input[type=submit]:hover {
     .carousel .list .item .content .topic {
         font-size: 3rem;
     }
-
+    .carousel .list .item .content .buttons {
+        display: flow-root;
+    }
+    .carousel .list .item .content button:nth-child(2){
+        margin-left:0 !important;
+    }
     .thumbnail {
         bottom: 1rem;
     }

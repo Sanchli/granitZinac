@@ -21,7 +21,7 @@
 <!--Main Section-->
 <div class="about_simpleHeader">
     <div class="about_Photo">
-        <img src="/image/about/panoramaShot.avif" alt="company_photos">
+        <img src="/granitZinac/image/about/panoramaShot.avif" alt="company_photos">
     </div>
     <div class="about_simpleHeader_text">
         <h2>Crafting beautiful spaces with care, quality, and family values</h2>
@@ -31,7 +31,7 @@
 </div>
 <div class=" about_Two">
     <div class=" about_Photo_2">
-        <img src="/image/about/teamPhoto2.jpg" alt="company_photos">
+        <img src="/granitZinac/image/about/teamPhoto2.jpg" alt="company_photos">
     </div>
     <div class="about_simpleHeader_text_Two ">
         <h2>Who is <br>Granite Zinac?</h2>
@@ -56,13 +56,12 @@
                     location to take precise measurements and discuss your vision, including color and design. <br>
                     For a personal touch, we recommend visiting slab yards to select your stone.<br> Once chosen, we
                     provide a detailed, customized estimate.</p>
-                <img src="image/home/estimate.png" alt="Estimate/Discussing">
+                <img src="/image/" alt="Estimate/Discussing">
             </div>
             <button class="accordion">Stone</button>
             <div class="panel">
                 <div class="stone">
                     <img src="image/logos/mj.svg" alt="MJ Granite">
-                    <img src="image/logos/" alt="CRS Granite">
                     <img src="image/logos/AmeriQuartz.svg" alt="Templating">
                 </div>
                 <div class="accordion_text">
@@ -85,17 +84,17 @@
                 <p>3. After the stones are delivered, we move into the fabrication stage. <br>Edges are precisely
                     cut and polished to your liking, whether you prefer a clean flat polish or a polished broken
                     edge for a stylish finish.</p>
-                <img src="image/fabrication.jpg" alt="polishing/loading">
+                <img src="image/about/fabrication.jpg" alt="polishing/loading">
             </div>
             <button class="accordion">Installation</button>
             <div class="panel">
-                <img src="image/installation.jpg" alt="Installing w/handshake">
+                <img src="image/about/installation.jpg" alt="Installing w/handshake">
                 <p> 4. The final step for your dream kitchen.<br>In our Installation we make sure the countertops
                     are adjusted and detailed to the best of our abilities.</p>
             </div>
             <button class="accordion">Other Services</button>
             <div class="panel">
-                <img src="image/services.jpg" alt="Installing w/handshake">
+                <img src="image/about/services.jpg" alt="Installing w/handshake">
                 <div class="services">
                     <p> Countertops looking a bit rough?<br> Or require some Care? <br><br>We got you covered!</p>
                     <a href=services.php><h3>Explore<br> our<br> Services</h3></a>

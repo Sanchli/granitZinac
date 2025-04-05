@@ -19,7 +19,7 @@
 
 <div class="service_top">
     <h2>SERVICES</h2>
-    <img src="/image/services/servicesMaybe.jpg" alt="graniteBackground">
+    <img src="image/services/servicesMaybe.jpg" alt="graniteBackground">
 </div>
 <div class="services_mid">
     <div class="services_grid">

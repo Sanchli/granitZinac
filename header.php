@@ -17,7 +17,7 @@
         </a>
     </div>
 </div>
-<script src="/js/hamburger_header.js"></script>
+<script src="js/hamburger_header.js"></script>
 <!--normal header-->
 <div class="regular_header">
     <div class="header">
